@@ -1,0 +1,8 @@
+Command-line interfaces (CLIs) allow users to interact with programs via text commands.
+
+Useful PowerShell tips:
+- Get-Help provides help on commands
+- cd, mkdir, and ls work similarly to Unix
+- Use go run to execute Go files
+
+Keep your CLI tools clean and modular.

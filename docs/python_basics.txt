@@ -1,0 +1,7 @@
+Python is a high-level, interpreted programming language with dynamic semantics.
+Its simple syntax makes it ideal for beginners.
+Common data types in Python include lists, dictionaries, and tuples.
+
+To define a function in Python:
+def greet(name):
+    return "Hello " + name

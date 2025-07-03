@@ -1,0 +1,7 @@
+Go (or Golang) is a statically typed, compiled programming language designed at Google.
+It has built-in concurrency support using goroutines and channels.
+
+To declare a function in Go:
+func greet(name string) string {
+    return "Hello " + name
+}
